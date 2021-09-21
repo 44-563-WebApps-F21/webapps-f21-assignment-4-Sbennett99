@@ -1,0 +1,37 @@
+#speech {
+    font: Times;
+    padding-left: 25px;
+    font-size: 14px;
+    color:black;
+    line-break: initial;
+}
+#name {
+    
+    font-weight: bold;
+    font: Times;
+    font-size: 16px;
+    color:black;
+}
+#stage-direction {
+    font: Times;
+    font-style: italic;
+    font-size: 14px;
+    color:black;
+    background-color: lightgray;
+}
+#stage-direction:hover {
+    background-color: black;
+    color:white;
+}
+#name.princepaul {
+    color:red;
+}
+#name.vera {
+    color:blue;
+}
+#name.pres {
+    color:orange;
+}
+#name.mich {
+    color:purple;
+}
