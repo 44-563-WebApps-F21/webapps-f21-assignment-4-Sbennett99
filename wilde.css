@@ -58,3 +58,13 @@ tr:nth-child(odd) {
 th.actor {
     padding-right: 75px;
 }
+#page {
+    color: gray;
+    text-align:left;
+}
+#name:hover{
+    text-shadow: 1px 1px 0px black, 0px 0px 20px green, 0px 0px 20px green, 0px 0px 20px green; 
+    border: 1px solid black;
+    display: inline;
+    width: auto;
+}
